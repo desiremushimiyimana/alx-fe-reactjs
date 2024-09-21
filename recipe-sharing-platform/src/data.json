@@ -1,0 +1,275 @@
+[
+  {
+    "id": 1,
+    "title": "Spaghetti Carbonara",
+    "summary": "A classic Italian pasta dish with eggs, cheese, bacon, and black pepper.",
+    "image": "https://via.placeholder.com/300x200?text=Spaghetti+Carbonara",
+    "ingredients": [
+      "400g spaghetti",
+      "200g pancetta or guanciale, diced",
+      "4 large eggs",
+      "100g Pecorino Romano cheese, grated",
+      "100g Parmigiano-Reggiano cheese, grated",
+      "Freshly ground black pepper",
+      "Salt"
+    ],
+    "instructions": [
+      "Bring a large pot of salted water to boil and cook spaghetti according to package instructions.",
+      "While pasta cooks, fry pancetta in a large skillet until crispy.",
+      "In a bowl, whisk eggs, grated cheeses, and black pepper.",
+      "Drain pasta, reserving 1/2 cup of pasta water.",
+      "Quickly toss hot pasta with pancetta, then remove from heat.",
+      "Pour egg mixture over pasta, stirring quickly to coat. Add pasta water if needed for creaminess.",
+      "Serve immediately with extra grated cheese and black pepper."
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Chicken Tikka Masala",
+    "summary": "Chunks of grilled chicken (tikka) cooked in a smooth buttery & creamy tomato based gravy.",
+    "image": "https://via.placeholder.com/300x200?text=Chicken+Tikka+Masala",
+    "ingredients": [
+      "800g boneless chicken, cut into cubes",
+      "1 cup yogurt",
+      "2 tbsp lemon juice",
+      "2 tsp ground cumin",
+      "2 tsp red chili powder",
+      "2 tsp garam masala",
+      "2 tbsp ginger-garlic paste",
+      "400g canned tomatoes",
+      "1 cup heavy cream",
+      "Fresh cilantro for garnish"
+    ],
+    "instructions": [
+      "Marinate chicken in yogurt, lemon juice, cumin, chili powder, 1 tsp garam masala, and ginger-garlic paste for 4 hours.",
+      "Grill or bake marinated chicken until cooked through.",
+      "In a large pan, simmer tomatoes until soft. Puree and strain.",
+      "In the same pan, add pureed tomatoes, remaining garam masala, and cream. Simmer for 10 minutes.",
+      "Add grilled chicken to the sauce and cook for another 5 minutes.",
+      "Garnish with cilantro and serve with naan bread or rice."
+    ]
+  },
+  {
+    "id": 3,
+    "title": "Classic Caesar Salad",
+    "summary": "A crisp green salad with a creamy dressing and crunchy croutons.",
+    "image": "https://via.placeholder.com/300x200?text=Caesar+Salad",
+    "ingredients": [
+      "2 heads romaine lettuce, chopped",
+      "1 cup croutons",
+      "1/2 cup grated Parmesan cheese",
+      "2 cloves garlic, minced",
+      "2 anchovy fillets",
+      "1 egg yolk",
+      "2 tbsp lemon juice",
+      "1 tsp Dijon mustard",
+      "1/4 cup olive oil",
+      "Salt and black pepper to taste"
+    ],
+    "instructions": [
+      "In a bowl, whisk together minced garlic, anchovy fillets, egg yolk, lemon juice, and mustard.",
+      "Slowly drizzle in olive oil while whisking to create an emulsion.",
+      "Season the dressing with salt and pepper.",
+      "In a large bowl, toss chopped romaine with the dressing.",
+      "Add croutons and grated Parmesan cheese.",
+      "Toss again lightly and serve immediately."
+    ]
+  },
+  {
+    "id": 4,
+    "title": "Beef Stroganoff",
+    "summary": "A creamy Russian dish of sautéed beef in a sour cream sauce, served over noodles.",
+    "image": "https://via.placeholder.com/300x200?text=Beef+Stroganoff",
+    "ingredients": [
+      "500g beef sirloin, sliced thin",
+      "1 onion, sliced",
+      "300g mushrooms, sliced",
+      "2 tbsp flour",
+      "2 cups beef broth",
+      "1 tbsp Dijon mustard",
+      "1/2 cup sour cream",
+      "300g egg noodles",
+      "2 tbsp vegetable oil",
+      "Salt and pepper to taste",
+      "Chopped parsley for garnish"
+    ],
+    "instructions": [
+      "Season beef with salt and pepper. In a large skillet, brown beef in oil over high heat. Remove and set aside.",
+      "In the same skillet, sauté onions and mushrooms until soft.",
+      "Sprinkle flour over vegetables and cook for 1 minute.",
+      "Gradually add beef broth, stirring constantly. Bring to a simmer.",
+      "Stir in mustard and sour cream. Add beef back to the skillet.",
+      "Meanwhile, cook egg noodles according to package instructions.",
+      "Serve beef mixture over noodles, garnished with parsley."
+    ]
+  },
+  {
+    "id": 5,
+    "title": "Vegetable Stir Fry",
+    "summary": "A quick and healthy mix of colorful vegetables in a savory sauce.",
+    "image": "https://via.placeholder.com/300x200?text=Vegetable+Stir+Fry",
+    "ingredients": [
+      "2 cups mixed vegetables (bell peppers, broccoli, carrots, snap peas)",
+      "2 cloves garlic, minced",
+      "1 tbsp ginger, grated",
+      "2 tbsp soy sauce",
+      "1 tbsp oyster sauce",
+      "1 tsp sesame oil",
+      "2 tbsp vegetable oil",
+      "1 tbsp cornstarch mixed with 2 tbsp water",
+      "Cooked rice for serving"
+    ],
+    "instructions": [
+      "Heat vegetable oil in a wok or large skillet over high heat.",
+      "Add garlic and ginger, stir-fry for 30 seconds until fragrant.",
+      "Add vegetables and stir-fry for 3-4 minutes until crisp-tender.",
+      "Mix soy sauce, oyster sauce, and sesame oil in a small bowl.",
+      "Pour sauce over vegetables and toss to coat.",
+      "Add cornstarch slurry and cook until sauce thickens.",
+      "Serve hot over cooked rice."
+    ]
+  },
+  {
+    "id": 6,
+    "title": "Chocolate Chip Cookies",
+    "summary": "Classic homemade cookies with gooey chocolate chips.",
+    "image": "https://via.placeholder.com/300x200?text=Chocolate+Chip+Cookies",
+    "ingredients": [
+      "2 1/4 cups all-purpose flour",
+      "1 tsp baking soda",
+      "1 tsp salt",
+      "1 cup unsalted butter, softened",
+      "3/4 cup granulated sugar",
+      "3/4 cup brown sugar",
+      "2 large eggs",
+      "2 tsp vanilla extract",
+      "2 cups semi-sweet chocolate chips"
+    ],
+    "instructions": [
+      "Preheat oven to 375°F (190°C).",
+      "In a bowl, mix flour, baking soda, and salt.",
+      "In another bowl, cream together butter, granulated sugar, and brown sugar.",
+      "Beat in eggs one at a time, then stir in vanilla.",
+      "Gradually blend in the dry ingredients.",
+      "Stir in chocolate chips.",
+      "Drop by rounded tablespoons onto ungreased baking sheets.",
+      "Bake for 9 to 11 minutes or until golden brown.",
+      "Let cool on baking sheet for 5 minutes before transferring to a wire rack."
+    ]
+  },
+  {
+    "id": 7,
+    "title": "Greek Salad",
+    "summary": "A refreshing salad with tomatoes, cucumbers, olives, and feta cheese.",
+    "image": "https://via.placeholder.com/300x200?text=Greek+Salad",
+    "ingredients": [
+      "4 large tomatoes, chopped",
+      "1 cucumber, sliced",
+      "1 red onion, thinly sliced",
+      "1 green bell pepper, chopped",
+      "200g feta cheese, cubed",
+      "1 cup Kalamata olives",
+      "1/4 cup extra-virgin olive oil",
+      "3 tbsp red wine vinegar",
+      "1 tsp dried oregano",
+      "Salt and pepper to taste"
+    ],
+    "instructions": [
+      "In a large bowl, combine tomatoes, cucumber, onion, bell pepper, feta cheese, and olives.",
+      "In a small bowl, whisk together olive oil, red wine vinegar, and oregano.",
+      "Pour dressing over the salad and toss gently to combine.",
+      "Season with salt and pepper to taste.",
+      "Refrigerate for at least 30 minutes before serving to allow flavors to meld."
+    ]
+  },
+  {
+    "id": 8,
+    "title": "Mushroom Risotto",
+    "summary": "A creamy Italian rice dish with savory mushrooms and Parmesan cheese.",
+    "image": "https://via.placeholder.com/300x200?text=Mushroom+Risotto",
+    "ingredients": [
+      "1 1/2 cups Arborio rice",
+      "500g mixed mushrooms, sliced",
+      "1 onion, finely chopped",
+      "2 cloves garlic, minced",
+      "6 cups vegetable or chicken broth, heated",
+      "1/2 cup white wine",
+      "1/2 cup grated Parmesan cheese",
+      "2 tbsp butter",
+      "2 tbsp olive oil",
+      "Salt and pepper to taste",
+      "Fresh parsley, chopped"
+    ],
+    "instructions": [
+      "In a large pan, sauté mushrooms in 1 tbsp olive oil until browned. Set aside.",
+      "In the same pan, heat remaining oil and sauté onion and garlic until softened.",
+      "Add rice and stir for 1-2 minutes until lightly toasted.",
+      "Pour in wine and stir until absorbed.",
+      "Begin adding hot broth one ladle at a time, stirring constantly and waiting for each addition to be absorbed before adding more.",
+      "Continue this process until rice is creamy and al dente, about 18-20 minutes.",
+      "Stir in mushrooms, Parmesan, and butter. Season with salt and pepper.",
+      "Garnish with parsley and serve immediately."
+    ]
+  },
+  {
+    "id": 9,
+    "title": "Banana Bread",
+    "summary": "A moist and flavorful quick bread made with ripe bananas.",
+    "image": "https://via.placeholder.com/300x200?text=Banana+Bread",
+    "ingredients": [
+      "3 ripe bananas, mashed",
+      "1/3 cup melted butter",
+      "1/2 cup sugar",
+      "1 egg",
+      "1 tsp vanilla extract",
+      "1 tsp baking soda",
+      "Pinch of salt",
+      "1 1/2 cups all-purpose flour",
+      "1/2 cup chopped walnuts (optional)"
+    ],
+    "instructions": [
+      "Preheat oven to 350°F (175°C). Grease a 4x8-inch loaf pan.",
+      "In a large bowl, mix mashed bananas with melted butter.",
+      "Mix in sugar, egg, and vanilla.",
+      "Sprinkle baking soda and salt over the mixture and stir in.",
+      "Add flour and mix until just combined.",
+      "Fold in chopped walnuts if using.",
+      "Pour batter into prepared loaf pan.",
+      "Bake for 50-60 minutes, or until a toothpick inserted into the center comes out clean.",
+      "Let cool in the pan for a few minutes, then remove and cool completely on a wire rack."
+    ]
+  },
+  {
+    "id": 10,
+    "title": "Homemade Pizza",
+    "summary": "A delicious pizza with a crispy crust and your favorite toppings.",
+    "image": "https://via.placeholder.com/300x200?text=Homemade+Pizza",
+    "ingredients": [
+      "For the dough:",
+      "3 cups all-purpose flour",
+      "1 tsp sugar",
+      "1 packet (2 1/4 tsp) instant yeast",
+      "1 tsp salt",
+      "1 cup warm water",
+      "2 tbsp olive oil",
+      "For the toppings:",
+      "1/2 cup tomato sauce",
+      "2 cups shredded mozzarella cheese",
+      "1/4 cup grated Parmesan cheese",
+      "Toppings of your choice (e.g., pepperoni, mushrooms, bell peppers)"
+    ],
+    "instructions": [
+      "In a large bowl, mix flour, sugar, yeast, and salt.",
+      "Add warm water and olive oil, mix until a dough forms.",
+      "Knead dough on a floured surface for about 5 minutes until smooth.",
+      "Place in a greased bowl, cover, and let rise for 1 hour.",
+      "Preheat oven to 450°F (230°C).",
+      "Punch down dough and roll out on a floured surface.",
+      "Transfer to a pizza pan or baking sheet.",
+      "Spread tomato sauce over the dough, leaving a border for the crust.",
+      "Sprinkle with cheeses and add your chosen toppings.",
+      "Bake for 15-20 minutes or until crust is golden and cheese is bubbly.",
+      "Let cool for a few minutes before slicing and serving."
+    ]
+  }
+]
